@@ -126,3 +126,10 @@ The following repositories contain automated tests for the DevOps with Docker co
 * https://github.com/ohjelmointi2/generics-and-sudoku/
 
     With this exercise package, you will learn to define generic methods and classes. The topic is initially covered by creating general-purpose methods that can handle different types of data without having to repeat the program logic for different types.
+
+
+## Python
+
+* https://github.com/python-ohjelmointi/autograding
+
+    A collection of scripts and tests for automatically testing and grading exam submissions returned in MS Teams.
