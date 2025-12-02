@@ -66,7 +66,7 @@ The following repositories contain automated tests for the DevOps with Docker co
 
     In this exercise, you will use the Playwright tool to transfer data from an old system to a new one. The transfer is carried out by automating steps that would take a lot of time and be prone to errors for a regular user. Such a solution is often called "software robotics" or Robotic Process Automation.
 
-## TypeScript exercises
+## TypeScript, Node.js and NPM
 
 * https://github.com/harjoitukset/typescript-postalcodes
 
@@ -80,6 +80,21 @@ The following repositories contain automated tests for the DevOps with Docker co
 
     In the first part of the task, you got acquainted with TypeScript and the solution style was free. This time, our goal is to learn certain pre-selected algorithms and data structures, and to make the code testable and reusable.
 
+* https://github.com/ohjelmistokehitys/async-music-webapp
+
+    This exercise focuses on using REST APIs in a React application, handling asynchronous operations, and properly managing loading states.
+
+* https://github.com/ohjelmistokehitys/serverless-color-converter
+
+    In this exercise, you will learn to utilize the Hono application framework and implement functions that handle HTTP requests and responses, but are not dependent on a specific server environment.
+
+* https://github.com/ohjelmistokehitys/node-package-exercise
+
+    In this exercise, you will learn to create and work with npm packages. Npm (Node Package Manager) is a package management system that comes with Node.js, enabling the installation and management of third-party libraries and tools in your projects.
+
+* https://github.com/ohjelmistokehitys/graphql-routeplanner
+
+    This exercise combines the use of REST APIs and GraphQL interfaces with TypeScript. The project builds a very simplified version of a route planner that utilizes Digitransit's location data and routing services.
 
 ## Java
 
