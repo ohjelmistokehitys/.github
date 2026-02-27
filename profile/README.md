@@ -94,7 +94,11 @@ The following repositories contain automated tests for the DevOps with Docker co
 
 * https://github.com/ohjelmistokehitys/graphql-routeplanner
 
-    This exercise combines the use of REST APIs and GraphQL interfaces with TypeScript. The project builds a very simplified version of a route planner that utilizes Digitransit's location data and routing services.
+    This exercise combines the use of REST APIs and GraphQL interfaces with TypeScript. The project builds a very simplified version of a route planner that utilizes Digitransit's location data and routing services. See live demo at https://ohjelmistokehitys.github.io/graphql-routeplanner/.
+
+* https://github.com/ohjelmistokehitys/mqtt-map/
+
+    This exercise contains a React application that displays real-time traffic data on a map using the Leaflet library. Students learn to interact with an MQTT broker to receive real-time data and update the map accordingly. See live demo at https://ohjelmistokehitys.github.io/mqtt-map/.
 
 ## Java
 
