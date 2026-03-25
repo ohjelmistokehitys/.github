@@ -23,8 +23,24 @@ Most of the repositories are in Finnish, as the courses are primarily taught in 
 
     The goal of this exercise is to get acquainted with the key concepts and features of Docker and Docker Compose, such as volumes, ports, and environment variables. At the same time, you will work with real tools like PostgreSQL and pgAdmin.
 
+* https://github.com/ohjelmistokehitys/monitoring-logging
+
+    This exercise will introduce you to centralized logging and monitoring of applications. Logging and monitoring are essential parts of modern software development and operations, as they help in understanding application behavior, diagnosing issues, and ensuring system reliability.
+
+* DevOps with Docker (mooc.fi)
+
+    The following repositories contain automated tests for the DevOps with Docker course on mooc.fi: https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker.
+
+    * https://github.com/ohjelmistokehitys/docker-part-1a
+    * https://github.com/ohjelmistokehitys/docker-part-1b
+    * https://github.com/ohjelmistokehitys/docker-part-2a
+
 
 ## Git
+
+* https://github.com/ohjelmointi2/git-hello-world/
+
+    In this exercise you learn the basics of Git version control. Before starting the exercise, make sure you have installed the Git tool for your computer and done the required setup for Git. You will also need a GitHub account.
 
 * https://github.com/ohjelmistokehitys/git-multiplayer-exercise
 
@@ -33,15 +49,6 @@ Most of the repositories are in Finnish, as the courses are primarily taught in 
 * https://github.com/ohjelmistokehitys/merge-exercise
 
     This repository contains a simple React-based countdown timer application built with Vite. Several features of the application have already been implemented, each of them in a separate branch. The goal of this exercise is to merge these branches into the main branch using Git.
-
-
-## DevOps with Docker (mooc.fi)
-
-The following repositories contain automated tests for the DevOps with Docker course on mooc.fi: https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker.
-
-* https://github.com/ohjelmistokehitys/docker-part-1a
-* https://github.com/ohjelmistokehitys/docker-part-1b
-* https://github.com/ohjelmistokehitys/docker-part-2a
 
 
 ## Test automation
@@ -100,11 +107,8 @@ The following repositories contain automated tests for the DevOps with Docker co
 
     This exercise contains a React application that displays real-time traffic data on a map using the Leaflet library. Students learn to interact with an MQTT broker to receive real-time data and update the map accordingly. See live demo at https://ohjelmistokehitys.github.io/mqtt-map/.
 
+
 ## Java
-
-* https://github.com/ohjelmointi2/git-hello-world/
-
-    In this exercise you learn the basics of Git version control. Before starting the exercise, make sure you have installed the Git tool for your computer and done the required setup for Git. You will also need a GitHub account.
 
 * https://github.com/ohjelmointi2/warming-up
 
@@ -152,3 +156,7 @@ The following repositories contain automated tests for the DevOps with Docker co
 * https://github.com/python-ohjelmointi/autograding
 
     A collection of scripts and tests for automatically testing and grading exam submissions returned in MS Teams.
+
+* https://github.com/python-ohjelmointi/harjoituskoe
+
+    This repository contains a set of exercises for practicing Python programming to prepare for a course exam. The exercises can be automatically tested using doctests, which are included in the code files.
