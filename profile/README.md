@@ -1,4 +1,4 @@
-# Organization for software development exercises
+# Software development exercises
 
 This organization contains repositories for exercises related to software development courses at Haaga-Helia University of Applied Sciences. Most exercises have automated tests that are designed to work with GitHub Classroom. The exercises cover various topics, including DevOps, Docker, TypeScript, testing, and more.
 
