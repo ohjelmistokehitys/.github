@@ -65,6 +65,10 @@ Most of the repositories are in Finnish, as the courses are primarily taught in 
 
     In this exercise, you will continue practicing with Playwright and test the functionalities of a website. The focus is on locating different types of elements and interacting with them, such as text fields, buttons, and error messages.
 
+* https://github.com/testiautomaatio/authentication-tests-robot/
+
+    In this exercise, you will write tests for the same website as in the previous exercise, but this time using the Robot Framework and the Browser library. The goal is to get acquainted with a different testing tool and its syntax.
+
 * https://github.com/testiautomaatio/robot-framework-bdd
 
     In this exercise, you will practice writing end-to-end (E2E) tests using Robot Framework and the Browser library. In BDD, test cases are written in natural language and describe the program's behavior from the user's perspective.
@@ -72,6 +76,7 @@ Most of the repositories are in Finnish, as the courses are primarily taught in 
 * https://github.com/testiautomaatio/rpa-exercise
 
     In this exercise, you will use the Playwright tool to transfer data from an old system to a new one. The transfer is carried out by automating steps that would take a lot of time and be prone to errors for a regular user. Such a solution is often called "software robotics" or Robotic Process Automation.
+
 
 ## TypeScript, Node.js and NPM
 
