@@ -65,6 +65,10 @@ Most of the repositories are in Finnish, as the courses are primarily taught in 
 
     In this exercise, you will continue practicing with Playwright and test the functionalities of a website. The focus is on locating different types of elements and interacting with them, such as text fields, buttons, and error messages.
 
+* https://github.com/testiautomaatio/robot-browser-devcontainer
+
+    This repository provides a development container that includes all the necessary tools and dependencies for using Robot Framework and the Browser library. The container is configured to work with Visual Studio Code's Remote Containers extension, allowing you to develop and run tests in a consistent environment without worrying about local setup issues. This container works both in local development using Docker or in GitHub Codespaces, which provides a cloud-based development environment. 
+
 * https://github.com/testiautomaatio/authentication-tests-robot/
 
     In this exercise, you will write tests for the same website as in the previous exercise, but this time using the Robot Framework and the Browser library. The goal is to get acquainted with a different testing tool and its syntax.
